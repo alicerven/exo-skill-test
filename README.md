@@ -1,6 +1,6 @@
 # Yetenek Vitrini — 7 demos, 1 HTML file, 0 libraries
 
-**▶ Live demo:** https://KULLANICI_ADI.github.io/yetenek-vitrini/
+**▶ Live demo:** https://alicerven.github.io/exo-skill-test/
 
 ![Preview](docs/onizleme.jpg)
 
